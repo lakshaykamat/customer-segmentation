@@ -51,7 +51,7 @@ The dataset is sourced from Kaggle and contains the following features:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Customer-Segmentation.git
+   git clone https://github.com/lakshaykamat/Customer-Segmentation.git
    cd Customer-Segmentation
    ```
 
